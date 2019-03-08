@@ -7,10 +7,10 @@ This program uses only one piece of information to print a calendar of the year 
 That piece of information would be entered as integer only.
 ex. To express that January 1st is a Tuesday, enter "2" when prompted.
 
-Monday = 1
-Tuesday = 2
-Wednesday = 3
-Thursday = 4
-Friday = 5
-Saturday = 6
+Monday = 1 | 
+Tuesday = 2 | 
+Wednesday = 3 | 
+Thursday = 4 | 
+Friday = 5 | 
+Saturday = 6 | 
 Sunday = 7
